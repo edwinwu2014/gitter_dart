@@ -6,8 +6,8 @@ authors:
   - Kevin Segaud <segaud.kevin@gmail.com>
   - Hadrien Lejard <hadrien.lejard@gmail.com>
 
-environment:
-  sdk: '>=1.20.1 <2.0.0'
+environment: 
+  sdk: '>=2.5.0 <3.0.0'
 
 dependencies:
   http: ^0.11.3+13
